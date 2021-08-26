@@ -1,3 +1,3 @@
 # TicTacToe
 
-// This TicTacToe AI that I have constructed - user can play TicTacToe against it.
+// This program contains a TicTacToeAI and when run, a user can play against it.
